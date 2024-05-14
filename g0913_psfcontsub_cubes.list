@@ -1,0 +1,24 @@
+CWITools cube ID list
+---------------
+
+# Location of input data - give one or more directories, separated by ';'
+DATA_DIRECTORY = psfcontsub/
+
+# Number of directory levels below 'DATA_DIRECTORY' to include in search
+SEARCH_DEPTH =  1
+
+# ID_LIST, one unique ID string per line, always starting with '>'
+---------------
+>kb220131_53_tr_psfcontsub_
+>kb220131_54_tr_psfcontsub_
+>kb220131_55_tr_psfcontsub_
+>kb220131_56_tr_psfcontsub_
+>kb220131_57_tr_psfcontsub_
+>kb220131_58_tr_psfcontsub_
+>kb220131_59_tr_psfcontsub_
+>kb220131_61_tr_psfcontsub_
+>kb220131_62_tr_psfcontsub_
+>kb220131_63_tr_psfcontsub_
+>kb220131_64_tr_psfcontsub_
+>kb220131_65_tr_psfcontsub_
+>kb220131_66_tr_psfcontsub_
