@@ -1,0 +1,5 @@
+We provide the KCWI Whitelight image (No PSF or Continuum subtraction), 
+  - G0913_whitelight_px0.7.fits
+
+as well as the PSF and continuum subtracted datacube
+  - G0913_psfcontsub_px0.7.fits
